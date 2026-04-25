@@ -1,11 +1,10 @@
-     1|# Project Roadmap
-     2|
-     3|## Current Milestone
-     4|- [x] Initial setup and planning
-     5|
-     6|## Tasks
-     7|- [x] Create roadmap.md
-     8|
-     9|## Last Updated
-    10|2026-04-25 15:42:18
-    11|
+# Project Roadmap
+
+## Completed Milestones
+- Initial setup and planning (completed)
+
+## Tasks
+- [x] Create roadmap.md
+
+## Last Updated
+2026-04-25 16:25:30
