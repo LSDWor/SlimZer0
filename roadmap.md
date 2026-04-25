@@ -1,12 +1,11 @@
-# Project Roadmap
-
-## Completed Milestones
-- Initial setup and planning (completed)
-
-## Tasks
-- [x] Create roadmap.md
-- [x] Heartbeat check – 2026-04-25
-- [x] Heartbeat check – 2026-04-25 (evening)
-
-## Last Updated
-2026-04-25 22:10:00
+     1|# Project Roadmap
+     2|
+     3|## Current Milestone: Initial Setup
+     4|
+     5|### Checklist
+     6|- [x] Initialize git repository
+     7|- [x] Create roadmap.md
+     8|
+     9|### Last Updated: N/A
+    10|
+### Last Updated: 2026-04-25 22:32:11
