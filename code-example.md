@@ -1,9 +1,11 @@
 # Example Code
 
 ```python
-def hello_world():
-    print("Hello, world!")
+# LLM-Generated Example
+
+def calculate_sum(a, b):
+    return a + b
 
 if __name__ == "__main__":
-    hello_world()
+    print(f"Sum: {calculate_sum(3, 5)}")
 ```
