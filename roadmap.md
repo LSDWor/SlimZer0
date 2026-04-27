@@ -1,1 +1,8 @@
-File unchanged since last read. The content from the earlier read_file result in this conversation is still current — refer to that instead of re-reading.
+# Roadmap
+
+- Current milestone: **Heartbeat check**
+  - Verify all subtasks of the current milestone are completed or tracked.
+  - Confirm required directories and config files exist.
+  - Update roadmap status and last-updated timestamp.
+
+_Last updated: 2026-04-27 03:30 UTC_
