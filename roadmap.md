@@ -1,14 +1,13 @@
-     1|# Roadmap
-     2|
-     3|- Current milestone: **Heartbeat check** ✓
-     4|
-     5|- Subtasks:
-     6|  1. Verify all subtasks are completed or tracked in roadmap.md ✓
-     7|  2. Confirm project structure aligns with milestone ✓
-     8|  3. Update roadmap.md with incremental progress ✓
-     9|  4. Commit progress to version control immediately ✓
-    10|
-    11|_Latest update: 2026-04-27 01:00 PM_
+# Roadmap
+
+## Milestone
+- Current milestone: **Heartbeat check** ✓
+
+## Tasks
+- Verify all subtasks are completed or tracked in roadmap.md
+- Confirm project structure aligns with milestone
+- Update roadmap.md with incremental progress
+- Commit progress to version control immediately
 
 ## Last Updated
-2026-04-27 15:15:04
+2026-04-27 03:45 PM
