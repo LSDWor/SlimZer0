@@ -1,13 +1,9 @@
-# Auto-generated code examples
+# Example Code
 
-## Basic Functionality
 ```python
 def hello_world():
-    print("Hello, World!")
-```
+    print("Hello, world!")
 
-## Data Processing
-```python
-def calculate_sum(a, b):
-    return a + b
+if __name__ == "__main__":
+    hello_world()
 ```
